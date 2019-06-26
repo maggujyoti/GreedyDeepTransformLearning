@@ -6,3 +6,8 @@ Related Paper: J. Maggu and A. Majumdar, "Greedy deep transform learning," 2017 
 Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296596&isnumber=8296222
 
 Run file call_TL_deep.m for demo.
+
+Use different datasets for experiments and tune hyperparameters in TansformLearning_deep.m for adjusting NumberofAtoms and number of layers.
+This code can be used for one layer, two layers, three layers Deep_transform_learning. 
+
+The demo is given for MNIST_basic. Use Full MNIST and other datasets to reproduce results in paper given aove.
